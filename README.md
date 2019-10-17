@@ -14,7 +14,7 @@ An event organised by GNU/Linux Users' Group, NIT Durgapur for the promotion of 
     #### A. Follow the Contribution Guidelines given ahead.
 
     #### Q. What do I get by participating in this contest?
-    #### A. Just send 4 PRs and get a Free T-Shirt from Digital Ocean.
+    #### A. Just send 4 PRs and get a Free T-Shirt and some swags from Digital Ocean.
 
 ## Contribution Guidelines !
 
